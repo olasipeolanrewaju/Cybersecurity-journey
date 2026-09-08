@@ -24,7 +24,6 @@ Tools I am currently learning and practicing with:
 - 🐧 Kali Linux
 - 🔎 Nmap
 - 🛡️ Wazuh
-- 🐍 Python
 - 🌐 Networking
 - 🖥️ Linux
 - 🔐 Metasploitable
@@ -66,7 +65,6 @@ Perform network reconnaissance against a deliberately vulnerable lab machine and
 - [ ] Learn networking fundamentals
 - [ ] Build Wazuh monitoring lab
 - [ ] Complete SOC-focused labs
-- [ ] Build Python cybersecurity projects
 - [ ] Complete vulnerability assessment projects
 
 ## 🔬 Lab Ethics
